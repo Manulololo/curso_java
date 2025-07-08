@@ -1,9 +1,9 @@
 
 public class HolaMundo {
 	public static void main(String[]args ) {
-		System.out.println("Hola Getafe 777 Hola Getafe 888"
-				+ "");
-		
+
+		System.out.println("Hola Getafe 777 Hola Getafe 999");
+	
 		//Declarar una variable.
 		int numero;
 		numero = 9;
@@ -12,6 +12,6 @@ public class HolaMundo {
 		System.out.println("10"+numero+edad);
 		System.out.println("resultado:"+(numero+edad));
 		
-		
+		System.out.println("Github");
 	}
 }
