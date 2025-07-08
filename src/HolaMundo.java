@@ -1,7 +1,8 @@
 
 public class HolaMundo {
 	public static void main(String[]args ) {
-		System.out.println("Hola Getafe 777");
+		System.out.println("Hola Getafe 777 Hola Getafe 888"
+				+ "");
 		
 		//Declarar una variable.
 		int numero;
