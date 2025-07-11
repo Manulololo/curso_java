@@ -28,6 +28,7 @@ public class EjercicioArrays1 {
 		for ( double nota : notas ) {
 
 		 System.out.println(nota);
+		 System.out.println("Prueba");
 
 	}
 }
