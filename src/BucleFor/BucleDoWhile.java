@@ -1,5 +1,7 @@
 package BucleFor;
 
+import java.util.Scanner;
+
 public class BucleDoWhile {
 
 	public static void main(String[] args) {
