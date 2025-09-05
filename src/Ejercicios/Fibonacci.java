@@ -6,11 +6,12 @@ public class Fibonacci {
 
 	public static void main(String[] args) {
 		System.out.println("Introduce un numero: ");
+		Scanner scan = new Scanner(System.in);
 		int numero = scan.nextInt();
 		
 		int num1 = 0;
 		int num2 = 1;
-		System.out.println("num1+" , +"num2");
+		System.out.println(num1 +num2);
 		for ( int i=2; i<numero; i++) {  // porqu me imprime 4 para corregir.
 		}
 		

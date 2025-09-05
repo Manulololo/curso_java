@@ -27,7 +27,7 @@ public class Ejercicio5 {
 		
 		}
 		
-		System.out.println("La nota media es" + "alumno es " + (sumatorioNotas/numeroAlumnos));
+		//System.out.println("La nota media es" + "alumno es " + (sumatorioNotas/numeroAlumnos));
 			
 	}
 

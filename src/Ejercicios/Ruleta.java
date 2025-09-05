@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //saldo = 500
 //Si es otro numero numero se vuelve a formular la pregunta
 //

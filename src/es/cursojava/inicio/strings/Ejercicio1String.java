@@ -13,7 +13,7 @@ public class Ejercicio1String {
 
 		String palabraInvertida = "";
 
-		for (int i=texto.lenght()-1; i >= 0; i--) {
+		for (int i=palabraUsuario.length()-1; i >= 0; i--) {
 			palabraInvertida += palabraUsuario.charAt(i);
 		}
 

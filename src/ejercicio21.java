@@ -41,7 +41,7 @@ public class ejercicio21 {
 			}
 			break;
 		
-		System.out.println("El resultado es: " + resultado);
+		//System.out.println("El resultado es: " + resultado);
 
 	}
 	}

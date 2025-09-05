@@ -26,7 +26,7 @@ public class Pedir10 {
 		}
 		// no porque 15 es multiplo de 3 y 5 pero lo contaria solo de 3} else if (numero % 5 == 0) {
 		if (numero%5==0) {
-			contador5 ++;
+		//	contador5 ++;
 		}
 		}
 			
@@ -40,8 +40,6 @@ public class Pedir10 {
 	System.out.println("Multiplos de 3 y 5:");
 
 		scan.close();
-		}
-		}
 	}
 
 }
