@@ -8,7 +8,7 @@ public class Biblioteca {
 		
 		Libro libro1 = new Libro ("Harry Potter","JK Rowling", "333");
 		Libro libro2 = new Libro ("","JK Rowling", "333");
-		Libro libro3 = new Libro ("Harry Potter","JK Rowling", "333");
+		Libro libro3        = new Libro ("Harry Potter","JK Rowling", "333");
 		
 	}
 	private String nombre; // en azul claro la variable.
