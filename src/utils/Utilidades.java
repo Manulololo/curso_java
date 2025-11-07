@@ -29,11 +29,22 @@ public class Utilidades {
 		System.out.println(texto);
 	}
 	
-	public static int pideDatoNumerico (String texto) {
-		int numero=0;
+	public static int pideDatoNumerico (String texto) {//parametros
+		int numero=0;  //variable del metodo
+		boolean greed = true;
+		
+		
 		System.out.println(texto);
-		Scanner scan = new Scanner(System.in);
-		numero = scan.nextInt();
+		while (greed) {
+			try {
+				Scanner scan = new Scanner(System.in);
+				numero = scan.nextInt();
+				greed = false;
+			} catch (Exception e) {
+				System.out.println("Hubo un error, ingrese un digito.");
+			}
+		}
+		
 		
 		return numero;
 	}
